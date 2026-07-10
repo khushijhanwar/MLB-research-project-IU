@@ -74,7 +74,7 @@ Example output from `src/train_model.py`, tracked in MLflow (`salary-growth-cons
 | pitchers-linear_regression | Linear Regression | 963 | 0.645 | -0.006 |
 | pitchers-random_forest | Random Forest | 963 | 0.650 | -0.016 |
 
-![alt text](assets/c.png)
+![alt text](assets/d.png)
 ![alt text](assets/g.png)
 ![alt text](assets/e.png)
 ![alt text](assets/f.png)
